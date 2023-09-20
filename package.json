@@ -1,0 +1,14 @@
+{
+  "name": "ignite",
+  "version": "1.0.0",
+  "description": "for ignite task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "njoku ifeanyi Gerald",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
