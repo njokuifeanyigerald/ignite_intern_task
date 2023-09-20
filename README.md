@@ -86,3 +86,10 @@ start the service
 ```bash
 kubectl port-forward --namespace monitoring svc/kube-prometheus-stack-grafana 3000:80
 ```
+
+---------
+to start it
+```bash
+terraform init
+terraform apply
+```
